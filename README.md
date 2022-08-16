@@ -13,20 +13,18 @@
 ##### Our Team
 
 ```
-Pratyanshu
-Pandey Bhaskar Joshi
+Bhaskar Joshi
+Pratyanshu Pandey
+```
 ```
 pratyanshu.pandey@students.iiit.ac.in
+```
 
-```
-2019101025
-```
+
 ```
 bhaskar.joshi@research.iiit.ac.in
 ```
-```
-2019111002
-```
+
 
 1. Research Questions, Motivation and Methodology
     a. Advantages of Online News
